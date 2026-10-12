@@ -1,61 +1,45 @@
-```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://mypdffree.com/</loc>
-    <lastmod>2026-10-12</lastmod>
   </url>
   <url>
     <loc>https://mypdffree.com/merge-pdf</loc>
-    <lastmod>2026-10-12</lastmod>
   </url>
   <url>
     <loc>https://mypdffree.com/split-pdf</loc>
-    <lastmod>2026-10-12</lastmod>
   </url>
   <url>
     <loc>https://mypdffree.com/compress-pdf</loc>
-    <lastmod>2026-10-12</lastmod>
   </url>
   <url>
     <loc>https://mypdffree.com/jpg-to-pdf</loc>
-    <lastmod>2026-10-12</lastmod>
   </url>
   <url>
     <loc>https://mypdffree.com/pdf-to-jpg</loc>
-    <lastmod>2026-10-12</lastmod>
   </url>
   <url>
     <loc>https://mypdffree.com/rotate-pdf</loc>
-    <lastmod>2026-10-12</lastmod>
   </url>
   <url>
     <loc>https://mypdffree.com/delete-pdf-pages</loc>
-    <lastmod>2026-10-12</lastmod>
   </url>
   <url>
     <loc>https://mypdffree.com/extract-pdf-pages</loc>
-    <lastmod>2026-10-12</lastmod>
   </url>
   <url>
     <loc>https://mypdffree.com/watermark-pdf</loc>
-    <lastmod>2026-10-12</lastmod>
   </url>
   <url>
     <loc>https://mypdffree.com/add-page-numbers-pdf</loc>
-    <lastmod>2026-10-12</lastmod>
   </url>
   <url>
     <loc>https://mypdffree.com/crop-pdf</loc>
-    <lastmod>2026-10-12</lastmod>
   </url>
   <url>
     <loc>https://mypdffree.com/pdf-to-text</loc>
-    <lastmod>2026-10-12</lastmod>
   </url>
   <url>
     <loc>https://mypdffree.com/ocr-pdf</loc>
-    <lastmod>2026-10-12</lastmod>
   </url>
 </urlset>
-```
